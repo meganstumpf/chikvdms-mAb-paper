@@ -16,3 +16,5 @@ README_files/
 _archived/
 
 **/.Rhistory
+
+*.html

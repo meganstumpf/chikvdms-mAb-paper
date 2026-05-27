@@ -14,7 +14,7 @@ website:
           - href: "https://github.com/meganstumpf/chikvdms-mAb-paper"
             text: Source Code
             icon: github
-          - href: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11643203/"
+          - href: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11998513/"
             text: Manuscript
             icon: file-earmark-richtext-fill
     pinned: true
@@ -30,7 +30,7 @@ format:
     other-links:
       - text: Manuscript
         icon: file-earmark-richtext
-        href: https://pmc.ncbi.nlm.nih.gov/articles/PMC11643203/
+        href: https://pmc.ncbi.nlm.nih.gov/articles/PMC11998513/
       - text: Morrison Lab
         icon: virus2
         href: https://medschool.cuanschutz.edu/immunology-and-microbiology/immu-micro-labs/morrison-lab
