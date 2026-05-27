@@ -11,7 +11,7 @@
 
 _site/
 
-*_files/
+README_files/
 _archived/
 
 */.Rhistory
