@@ -17,6 +17,4 @@ _archived/
 
 **/.Rhistory
 
-*.html
-!*index.html
 /.quarto/
