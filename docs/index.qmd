@@ -54,7 +54,7 @@ format:
 
 ## Introduction {.unnumbered}
 
-This document describes the analysis pipeline and software inputs used to analyze sequencing data generated in the following manuscript (currently available as a preprint):
+This document describes the analysis pipeline and software inputs used to analyze sequencing data generated in the following manuscript:
 
 :::{.callout-note}
 ## Reference
