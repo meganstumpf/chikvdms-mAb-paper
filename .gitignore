@@ -18,3 +18,4 @@ _archived/
 **/.Rhistory
 
 *.html
+/.quarto/
