@@ -3,11 +3,11 @@
 **/.vscode
 **/.quarto
 
-**/__pycache__
+__pycache__
 
-**/archive
+archive/
 
-/.quarto/
+.quarto/
 
 _site/
 site_libs/
