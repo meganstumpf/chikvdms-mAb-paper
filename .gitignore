@@ -10,3 +10,8 @@
 /.quarto/
 
 _site/
+
+*_files/
+_archived/
+
+*/.Rhistory
