@@ -15,15 +15,14 @@
 the GitHub documentation [here](https://meganstumpf.github.io/chikvdms-mAb-paper).**
 
 This repository hosts the analysis pipeline and software inputs used to
-analyze sequencing data generated in the following [manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC11643203/) (currently
-available as a preprint):
+analyze sequencing data generated in the following [manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998513/):
 
 ## Reference
 
 > M. Stumpf M, Brunetti T, J. Davenport B, K. McCarthy M, E. Morrison T.
-> 2025 (in press). Deep mutationally scanned (DMS) CHIKV E3/E2 virus
+> (2025). Deep mutationally scanned (DMS) CHIKV E3/E2 virus
 > library maps viral amino acid preferences and predicts viral escape
-> mutants of neutralizing CHIKV antibodies. *J. Virol.*
+> mutants of neutralizing CHIKV antibodies. *J. Virol.* 99(4):e00081-25.
 
 ## Software Requirements
 
@@ -46,7 +45,7 @@ For this analysis:
 
 *Diagram 1. Analysis Pipeline Workflow*
 
-``` mermaid
+```mermaid
 %%{init: {"theme": "neutral"}}%%
 
 flowchart TB
@@ -72,7 +71,7 @@ flowchart TB
 ## Sample Preparation
 
 **Brief Methods:** (For full detailed methods, see
-[Manuscript](https://www.biorxiv.org/content/10.1101/2024.12.04.626854v1.full))
+[Manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998513/))
 
 - Viral supernatants were treated with RNase ONE to remove non-virion
   associated RNAs.
