@@ -10,8 +10,9 @@
 /.quarto/
 
 _site/
+site_libs/
 
 README_files/
 _archived/
 
-*/.Rhistory
+**/.Rhistory
